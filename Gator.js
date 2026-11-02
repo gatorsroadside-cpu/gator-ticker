@@ -1,7 +1,8 @@
 window.GATOR_LINES = [
   "Welcome to the Swamp",
   "Chomp! Chomp!",
-  "Crimson WZ Ranked Player",
-  "Diamond MP Ranked Player",
-  "Hit That Follow, I Follow Back!"
+  "MW4 All Day",
+  "Hit That Like",
+  "Hit That Follow!"
 ];
+document.documentElement.style.setProperty("--feed-color", "#FF8400");
